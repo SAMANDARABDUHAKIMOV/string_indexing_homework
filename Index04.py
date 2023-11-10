@@ -6,4 +6,12 @@ def main(s):
     Returns:
         str: answer
     """
-    return
+    a=s[0]
+    a1=s[1]
+    a2=s[2]
+
+    return a+a1+a2
+
+print(main("number"))
+print(main("codeschool"))
+
